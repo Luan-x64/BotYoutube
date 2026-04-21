@@ -1,0 +1,7 @@
+node_modules/
+downloads/
+*.sqlite
+*.db
+cookies.txt
+*.log
+.env
