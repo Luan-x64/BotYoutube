@@ -41,7 +41,3 @@ Prints:
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/5fa6357b-430b-43ad-9f30-f687e98eaddb" />
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/8398f68c-8c16-40ed-a4ba-45ac380a7504" />
 
-
-
-Créditos: Luan.
-
